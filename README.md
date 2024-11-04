@@ -1,4 +1,14 @@
 # Algorithemic-Thinking-with-Python
+## Directories
+notebooks - jupyter notebooks
+* Lab1 - First 3 experiments mentioned in syllabus forms Day 1 of lab
+
+demos - Fun/Interesting problems for classroom demo/discussion
+* pi - Compute pi - montecarlo using random values
+* pi_nonrandom - Compute pi using monte-carlo but don't use random
+* hanoi - Tower of hanoi solver
+
+
 ## AIM
 Write a Python program that performs the following tasks using the five basic arithmetic operators.
 
